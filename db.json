@@ -1,0 +1,116 @@
+{
+  "values":[
+    {
+    "id":1,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Lisansüstü Programlara Başvuru Kılavuzu",
+    "firstDate":"2022-6-17",
+    "endDate":null,
+    "url":"https://ktu.edu.tr/dosyalar/sbe_3365d.pdf"
+    },
+    {
+    "id":2,
+    "title":"Ön Kayıt Başvuru Girişi",
+    "firstDate":"2022-6-27",
+    "endDate":"2022-7-17",
+    "url":"https://ktu.edu.tr/dosyalar/sbe_ec450.pdf"
+    },
+    {
+    "id":3,
+    "title":"Bilgi ve Tercih Girişi ",
+    "firstDate":"2022-6-27",
+    "endDate":"2022-7-17",
+    "url":"https://ktu.edu.tr/dosyalar/sbe_8010d.pdf"
+    },
+    {
+    "id":4,
+    "title":"Yabancı Uyruklu Öğrenciler Başvuru Girişi",
+    "firstDate":"2022-6-27",
+    "endDate":"2022-7-17",
+    "url":"https://ktu.edu.tr/dosyalar/sbe_3365d.pdf"
+    },
+    {
+    "id":5,
+    "title":"'Sınav Jürisi ', 'Doktora Mülakat Sınavı' Not Giriş Ekranı'",
+    "firstDate":"2022-7-20",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":6,
+    "title":"Yerleştirme Sonuç Belgesi",
+    "firstDate":"2022-7-22",
+    "endDate":null,
+    "url":"http://as2.ktu.edu.tr/onkayit/"
+    },
+    {
+    "id":7,
+    "title":"Doktora ve Tezli Yüksek Lisans Programları",
+    "firstDate":"2022-7-22",
+    "endDate":null,
+    "url":"https://ktu.edu.tr/dosyalar/sbe_3365d.pdf"
+    },
+    {
+    "id":8,
+    "title":"Tezsiz Yüksek Lisans Programları",
+    "firstDate":"2022-7-22",
+    "endDate":null,
+    "url":"https://ktu.edu.tr/dosyalar/sbe_3365d.pdf"
+    },
+    {
+    "id":9,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Doktora ve Tezli Yüksek Lisans Programlarını Asıl Olarak Kazanan Adayların Kesin Kayıt İşlemlerinin Yapılması",
+    "firstDate":"2022-7-25",
+    "endDate":"2022-7-29",
+    "url":null
+    },
+    {
+    "id":10,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Doktora ve Tezli Yüksek Lisans Programları Boş Kontenjanlarına Yedekten Yerleştirme Sonuçları ",
+    "firstDate":"2022-8-01",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":11,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Doktora ve Tezli Yüksek Lisans Programlarını Yedekten Kazanan Adayların Belgelerini Enstitü'ye kontrol ettirmeleri ve Kesin Kayıt İşlemlerinin Yapılması",
+    "firstDate":"2022-8-02",
+    "endDate":"2022-8-03",
+    "url":null
+    },
+    {
+    "id":12,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Tezsiz Yüksek Lisans Programlarına 1. Yedekten Yerleştirme Sonuçları ve Kesin Kayıtların Yapılması",
+    "firstDate":"2022-7-27",
+    "endDate":"2022-7-28",
+    "url":null
+    },
+    {
+    "id":13,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Tezsiz Yüksek Lisans Programlarına 2. Yedekten Yerleştirme Sonuçları ve Kesin Kayıtların Yapılması ",
+    "firstDate":"2022-8-01",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":14,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Tezsiz Yüksek Lisans Programlarına 3. Yedekten Yerleştirme Sonuçları ve Kesin Kayıtların Yapılması ",
+    "firstDate":"2022-8-02",
+    "endDate":"2022-8-03",
+    "url":null
+    },
+    {
+    "id":15,
+    "title":"2022-2023 Eğitim-Öğretim Yılı Güz Yarıyılı Tezsiz Yüksek Lisans Programlarına Son Yedek Yerleştirme Sonuçları ve Kesin Kayıtların Yapılması",
+    "firstDate":"2022-8-04",
+    "endDate":null,
+    "url":null
+    },
+    {
+    "id":16,
+    "title":"Zorunlu Staj İşlemlerini Tamamlayamadığı İçin Mezun Durumda Olmayan Adayların Lisansüstü Programlara Kayıtları",
+    "firstDate":"2022-8-15",
+    "endDate":"2022-8-19",
+    "url":null
+    }
+  ]
+}
