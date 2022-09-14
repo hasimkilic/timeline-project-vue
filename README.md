@@ -1,6 +1,6 @@
 ![Project Photo](https://github.com/hasimkilic/timeline-project-vue/blob/main/src/assets/timeline-project.png)
 
-## Bu projede db.json'dan gelen verileri belirli tarihe göre listeleyip aynı yerde listeleyen bir timeline sayfası geliştirdim.
+## Bu projede db.json dosyasınıdaki verileri fakeApı json-server ile fakeApı oluşturarak gelen verileri belirli tarihe göre listeleyip aynı yerde gösteren bir timeline sayfası geliştirdim.
 
 # timeline-project-vue3
 
